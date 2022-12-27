@@ -5,16 +5,16 @@
  */
 int main(void)
 {
-	int n;
-
 	char a;
+
+	int n;
 
 	n = 0;
 	a = 'a';
 	while (n < 10)
 	{
 		putchar(n + '0');
-		a++;
+		n++;
 	}
 	while (a <= 'f')
 	{
