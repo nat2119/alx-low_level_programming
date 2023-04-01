@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main - prints all possible different cobinations of two digits.
+ * main - Entery point
  * Return: Always 0 (success)
  */
 int main(void)
